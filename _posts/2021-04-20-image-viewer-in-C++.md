@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Image Viewer in C++"
+title: Image Viewer in C++
 date: 2021-04-20
 ---
 

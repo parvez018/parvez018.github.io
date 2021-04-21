@@ -6,7 +6,7 @@ title: Nasim's Page
 <div class="blurb">
 	<h1>Hi there, I'm Nasim!</h1>
 	<div class="image-txt-container">
-	  <img src="/images/profile.jpg" alt="Nasim's picture">
+	  <img src="/images/profile.jpg" alt="Nasim's picture" style="width: 15%;">
 	  <p>
 	    Text here
 	  </p>

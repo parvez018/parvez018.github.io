@@ -41,3 +41,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+div.image-txt-container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}

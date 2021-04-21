@@ -5,6 +5,13 @@ title: Nasim's Page
 
 <div class="blurb">
 	<h1>Hi there, I'm Nasim!</h1>
+	<div class="image-txt-container">
+	  <img src="/images/profile.jpg" alt="Nasim's picture">
+	  <p>
+	    Text here
+	  </p>
+	</div>
+	<h1>Hi there, I'm Nasim!</h1>
 	<div style="width: 100%; display: table;">
 		<div style="display: table-row;">
 	    		<div style="width: 20%; display: table-cell;">
